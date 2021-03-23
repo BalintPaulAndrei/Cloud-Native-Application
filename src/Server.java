@@ -68,9 +68,6 @@ public class Server
 
             lista_clienti.add(Client);
         }
-        for(int i=0; i < lista_clienti.size(); i++)
-        {
-            System.out.println(lista_clienti.get(i) + ", ");
-        }
+
     }
 }
